@@ -17,6 +17,9 @@ When creating tables we can specify a column as having a foreign key. The dataty
 * Add a new entry into the `movie` table with a `title` and `media_type_id`.
 * Query the `movie` table to get your entry.
 
+
+
+
 ### Solution
 
 <details>
